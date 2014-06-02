@@ -1,4 +1,6 @@
-Social-crawler (Currently Testing with few websites, Will update soon :F)
+Social-crawler (Currently Testing with few websites, Will update soon.)
+You can still check out deployed version at : http://95.85.5.170
+
 ==============
 
 Social crawler based on Python(Flask framework)
