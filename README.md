@@ -16,7 +16,24 @@ Benefits:
 1. You get to know which link is most popular among social website.
 2. Finds out which article or webpage isn't so popular.
 
-###Current Developing cache version
+
+###Running :
+
+Basically uses flask framework because it was originally developed for flask. So you need to install flask and its dependencies.
+
+After that you can directly run using python index.py or deploy on uWSGI/WSGI whatever.
+
+
+###For Command line testing 
+
+You can test using : python test.py url count
+
+
+<br>
+
+
+
+####Current Developing cache version
 
 
 
