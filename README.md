@@ -15,7 +15,6 @@ Benefits:
 
 1. You get to know which link is most popular among social website.
 2. Finds out which article or webpage isn't so popular.
-3. 
 
 ###Current Developing cache version
 
