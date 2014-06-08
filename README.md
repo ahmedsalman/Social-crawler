@@ -14,7 +14,7 @@ Social crawler is one of its own kind of crawler with additional facilties that 
 Benefits:
 
 1. You get to know which link is most popular among social website.
-2. Finds out which article or webpage isn't so popular.
+2. Find out which article or webpage isn't so popular.
 
 
 ###Running :
