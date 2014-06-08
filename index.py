@@ -73,23 +73,6 @@ def index_post():
         return jsonify(links=social_counts)
 
 
-
-@app.route("/count/<website>",methods=['GET'])
-@crossdomain(origin='*')
-def async(website):
-    return str(cache.get(str(website)+'urlcount'))
-
-@app.route("/current/<website>",methods=['GET'])
-@crossdomain(origin='*')
-def current(website):
-    return str(cache.get(str(website)+'currenturl'))
-
-
-@app.errorhandler(500)
-def internal_error(error):
-    return "500"
-
-
 if __name__ == '__main__':
     app.run(host='0.0.0.0',debug=True)
 
