@@ -33,7 +33,7 @@ You can test using : python test.py url count
 
 
 
-####Current Developing cache version
+####Currently Developing cache version
 
 
 
